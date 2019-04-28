@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initial Steps
+
+Navigate into the folder you want the repository cloned into.
+
+Run:
+### `git clone https://github.com/RiceDatathon/RiceDatathon.github.io`
+
+Then to run the website in development mode locally on your computer run:
+
+### `npm run start` 
+
+From within the directory for the repository.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
